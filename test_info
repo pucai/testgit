@@ -8,4 +8,6 @@ test git reflog
 test git reset
 test git reset --hard HEAD^
 test git cache
+test git new modify
+test git new commit
 
