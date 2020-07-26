@@ -3,3 +3,5 @@ checkout, head,reset...etc
 start
 test git status ,log
 test git branch 
+test git diff
+
