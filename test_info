@@ -6,3 +6,4 @@ test git branch
 test git diff
 test git reflog
 test git reset
+test git reset --hard HEAD^
