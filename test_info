@@ -1,3 +1,5 @@
 test git init ,add, commit,merge,branch
 checkout, head,reset...etc
 start
+test git status ,log
+test git branch 
