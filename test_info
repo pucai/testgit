@@ -4,4 +4,5 @@ start
 test git status ,log
 test git branch 
 test git diff
-
+test git reflog
+test git reset
